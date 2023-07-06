@@ -7,8 +7,8 @@ import (
 	"time"
 
 	// TODO: import your plugins
-	// _ "github.com/my_github_user/my_plugin_repo/plugins/inputs/mypluginname"
-	_ "github.com/ssoroka/rand/plugins/inputs/rand"
+
+	//_ "github.com/MHalter/eloextplugin/plugins/inputs/eloextplugin"
 
 	"github.com/influxdata/telegraf/plugins/common/shim"
 )

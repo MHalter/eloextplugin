@@ -8,7 +8,7 @@ import (
 
 	// TODO: import your plugins
 
-	_ "./plugins/inputs/eloextplugin"
+	_ "github.com/MHalter/eloextplugin/plugins/inputs/eloextplugin"
 
 	"github.com/influxdata/telegraf/plugins/common/shim"
 )
